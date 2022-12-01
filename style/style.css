@@ -1,0 +1,48 @@
+html {
+    font-size: 10px;
+    font-family: 'Dancing Script', cursive;
+    background-color: rgb(166, 255, 254);
+}
+h1 {
+    font-size: 60px;
+    text-align: center;
+}
+p,li {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+p,li {
+    color:white;
+    width: 500;
+    border:1px solid black;
+}
+body {
+    width: 80%;
+    margin: 0 auto;
+    background-color: rgb(223, 154, 255);
+    padding: 0 20px 20px 20px;
+    border: 3px solid rgd(58, 58, 58);
+
+}
+img {
+    display: block;
+    margin: 0 auto;
+    width: 80%;
+}
+.myClass{
+    color:aliceblue(111, 0, 255);
+    font-weight: bold;
+}
+.imgclass{
+    width: 50%;
+}
+a:link{
+    color:blue(55, 0, 255);
+}
+a:visited{
+    color:chartreuse(0, 255, 0);
+}
+a:hover{
+    text-decoration: none;
+}
